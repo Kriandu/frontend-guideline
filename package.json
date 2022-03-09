@@ -1,0 +1,8 @@
+{
+  "name": "frontend-guideline",
+  "version": "1.0.0",
+  "description": "Frontend Guideline by Kriandu",
+  "main": "index.js",
+  "author": "Kriandu",
+  "license": "MIT"
+}
